@@ -24,7 +24,7 @@
 
 **1º** - Use **npm i** para instalar todas as dependências necessárias.
 
-**2º** - Configure tudo que é necessário para o funcionamento do bot em **config.json**
+**2º** - Configure tudo que é necessário para o funcionamento do bot em **config.json** e **.env**
 
 # Download
 
